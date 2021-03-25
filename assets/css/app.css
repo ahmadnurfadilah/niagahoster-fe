@@ -139,7 +139,7 @@ table i {
 }
 
 .price-box:hover {
-    z-index: 9999;
+    z-index: 2;
     transform: scale(1.03);
     box-shadow: 0px 5px 25px rgba(0, 0, 0, .1);
 }
